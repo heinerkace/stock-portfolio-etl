@@ -1,0 +1,5 @@
+account_id,client_id,account_type
+101,1,Brokerage
+102,1,Retirement
+201,2,Brokerage
+301,3,Brokerage

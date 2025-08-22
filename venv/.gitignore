@@ -1,0 +1,25 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# SQLite database
+*.db
+
+# Logs and outputs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
