@@ -7,6 +7,8 @@ I included a Jupyter notebook is included for **data exploration and visualizati
 
 ---
 
+#### **Please feel free to look through the python scripts and notebooks**
+
 ## Folder Structure
 
 ```
